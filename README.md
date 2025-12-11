@@ -13,9 +13,9 @@ Folien und Lehrmaterialien zur Vorlesung "Regelungstechnik" (TINF32B3) an der Du
 8. Übungen
 
 Weiterhin werden zur Prüfungsvorbereitung zur Verfügung gestellt:
-- Ein Probeklausur/Altklausur
+- Ein Probeklausur/Altklausur 
 - Selbstchecks (Auflistung wichtigster Kenntnisse nach Vorlesungskapitel, mithilfe derer Sie Ihren Wissensstand besser einschätzen können).
-- Ein Formelblatt (dieses entspricht dem Formelblatt, welches auch in der Klausur ausgegeben wird).
+- Ein Formelblatt (dieses ist nur für die Bearbeitung der Altklausur gedacht, die neue Klausur wird ohne Formelblatt durchgeführt).
 
 Die Vorlesungsfolien werden während des Semesters entsprechend dem Fortschritt der Vorlesung hochgeladen.
 
